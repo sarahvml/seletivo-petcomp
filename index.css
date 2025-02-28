@@ -44,10 +44,6 @@ nav{
 }
 
 /*texto do menu*/
-a {
-    color: #FFFCC7;
-    text-decoration: none;
-}
 
 a:hover {
     color: #4DA394;
@@ -77,6 +73,8 @@ header {
     a {
         text-align: center;
         font-size: 18px;
+        color: #FFFCC7;
+        text-decoration: none;
     }
 }
 
